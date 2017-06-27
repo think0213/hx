@@ -4,5 +4,5 @@ git has a mutable index called stage .
 test push
 git tracks changes of files .
 
-
+add merge
 creating a new branching is quick .

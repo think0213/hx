@@ -6,3 +6,4 @@ git tracks changes of files .
 
 
 creating a new branching is quick .
+creating a new branching is quick and simple.
